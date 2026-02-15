@@ -1,1 +1,1 @@
-Contains key notes from BWSI Cyber Operations 2026 course.
+Contains key notes and concepts from the BWSI Cyber Operations 2026 course.
