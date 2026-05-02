@@ -1,8 +1,6 @@
 # MIT BWSI 2026 – Cyber Operations Track
 
-This repository documents coursework and projects completed during MIT Beaver Works Summer Institute (BWSI) 2026.
-
-## Primary Focus
+## Main Course
 - Cyber Operations 2026 (main track)
 
 ## Supporting Courses
@@ -18,4 +16,4 @@ python-core/
 cs-systems/
 
 
-The primary focus of this repository is hands-on cybersecurity training and applied offensive security.
+The primary focus of this repository is to document 2026 BWSI Cyber Operations learning and extension projects.
