@@ -1,19 +1,19 @@
-# MIT BWSI 2026 – Cyber Operations Track
+# MIT BWSI 2026 - Cyber Operations Track
 
-## Main Course
-- Cyber Operations 2026 (main track)
+This repository certificates, a lab, and an independent project related to the 2026 MIT Beaver Works Summer Institute (BWSI) Cyber Operations program.
 
-## Supporting Courses
+## Courses
+- Cyber Operations 2026
 - Python Core 2026
 - Computer Science and Systems 2026
 
 ## Repository Structure
 
-cyber-operations/
+```text
+certificates/
+git-branching-lab/
+ssh-brute-force-detector/
+```
 
-python-core/
-
-cs-systems/
-
-
-The primary focus of this repository is to document 2026 BWSI Cyber Operations learning and extension projects.
+## Extension Project
+The main extension project in this repository is `ssh-brute-force-detector`, a defensive cybersecurity tool that analyzes Linux authentication logs and detects suspicious SSH login activity. 
