@@ -42,7 +42,7 @@ def print_report(failed_attempts, ip_usernames, threshold):
 
         print(f"{ip}: {count} failed attempts")
         print(f"  Status: {status}")
-        print(f"  Usernames attempted: {', '.join(ip_usernames.get(ip, set()))}")
+        print(f"  Usernames attempted: {', '.join(sorted(ip_usernames.get(ip, set())))}")
         if len(ip_usernames.get(ip, set())) >= 3:
             print("  ALERT: Multiple usernames targeted. Possible brute-force attack.")
 
