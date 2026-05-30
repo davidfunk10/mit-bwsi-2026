@@ -1,4 +1,4 @@
-# MIT BWSI 2026 - Cyber Operations Track
+# MIT BWSI 2026 - Cyber Operations Track Prerequisites
 
 This repository includes certificates, a lab, and an independent project utilizing knowledge from the 2026 MIT Beaver Works Summer Institute (BWSI) Cyber Operations prerequisite program.
 
